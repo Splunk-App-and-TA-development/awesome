@@ -45,7 +45,7 @@
 - [graylog2thehive](https://github.com/ReconInfoSec/graylog2thehive) - Alert feeder for Graylog, by [@ReconInfoSec](https://github.com/ReconInfoSec)
 - [mailgun2thehive](https://github.com/ReconInfoSec/mailgun2thehive) - Simple Python flask app that runs as a web server, and accepts POST requests from your Mailgun routes, by [@ReconInfoSec](https://github.com/ReconInfoSec)
 - [qradar2thehive](https://github.com/pierrebarlet/qradar2thehive) - Alert feeder for Qradar, by [@pierrebarlet](https://github.com/pierrebarlet)
-- [TA-thehive](https://github.com/remg427/TA-thehive) - Splunk Application for TheHive, by [@remg427](https://github.com/remg427)
+- [TA-thehive-CE](https://github.com/remg427/TA-thehive-ce) - Splunk Application for TheHive, by [@remg427](https://github.com/remg427)
 - [thehiveemail](https://github.com/ReconInfoSec/thehiveemail) - Reading and processing of email folders for TheHive + Autoupdating case histories, by [@ReconInfoSec](https://github.com/ReconInfoSec)
 - [thehive-falcon](https://github.com/ag-michael/thehive-falcon) - Falcon streaming api alert integration for TheHive, by [@ag-michael](https://github.com/ag-michael)
 - [Elastalert TheHive alerter](https://github.com/Nclose-ZA/elastalert_hive_alerter) - Elastalert connector for TheHive, by [@Nclose-ZA](https://github.com/Nclose-ZA)
@@ -55,6 +55,9 @@
 - [thehive-slack-webhook](https://github.com/ReconInfoSec/thehive-slack-webhook) - A simple Lambda function for delivering The Hive webhooks to Slack, by [ReconInfoSec](https://github.com/ReconInfoSec)
 - [TheHive2Sigma](https://github.com/jordisk/TheHive2Sigma) - Python script to automatically create sigma rules from Thehive observables, by [@jordisk](https://github.com/jordisk)
 - [TheHive WALKOFF app](https://github.com/frikky/WALKOFF/tree/thehive-integration) - A TheHive WALKOFF application, by [@frikky](https://github.com/frikky)
+- [Cyrating Feeder](https://github.com/vletoux/Cyrating2TH) - Cyrating Reputation alert importer for TheHive, by [vletoux](https://github.com/vletoux)
+- [Canaries to TheHive](https://github.com/ReconInfoSec/canaries2thehive) - Create alerts in TheHive from your Thinkst Canary alerts, to be turned into TheHive cases, by [ReconInfoSec](https://github.com/ReconInfoSec)
+- [Watcher](https://github.com/Felix83000/Watcher) - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS, by [@Felix83000](https://github.com/Felix83000)
 
 ### Tools
 
@@ -76,6 +79,9 @@
 - [Chris Sanders blog](https://chrissanders.org/2017/03/case-management-the-hive/) - Investigation Case Management with TheHive, by [@chrissanders88](https://github.com/chrissanders88)
 - [Cisco Umbrella blog](https://umbrella.cisco.com/blog/2018/11/12/now-available-hive-cortex-analyzer-and-maltego-transform-for-investigate/) - Hive-Cortex Analyzer and Maltego Transform for Investigate
 - [SOAR webhook integration](https://medium.com/@Frikkylikeme/automation-for-everyone-with-thehive-and-walkoff-6691f1343238) - Example integration between TheHive and NSA's [WALKOFF](https://github.com/nsacyber/WALKOFF) project
+- [DNS Threat Intelligence for Our Community - DomainTools Iris Integration](https://www.domaintools.com/resources/blog/dns-threat-intelligence-for-our-community) - How to do DNS Threat Intelligence with DomainTools Iris integration in TheHive and Cortex by Paul Sourin.
+- [AleSecurity Blog](https://alesecurity.fi/?p=15) - How to use OAuth2/OIDC (OpenID Connect) with TheHive
+- [Create and delete training alerts in TheHive](https://www.vanimpe.eu/2020/04/25/create-and-delete-training-alerts-in-thehive/), by Koen Van Impe
 
 ### Podcasts
 
